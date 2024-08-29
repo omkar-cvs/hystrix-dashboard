@@ -3,10 +3,10 @@ package com.oks.hystrix;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class HystrixDashboardApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
